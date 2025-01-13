@@ -1,7 +1,7 @@
 # oddPCIe
 PCIe + M.2 SATA breakout for Dell Latitude laptop optical drive modular bay
 
-The optical drive (odd) SATA ports on a number of Dell Latitude laptops from 2011-2013 have a PCIe x1 lane hidden in them, meant for use with the AE3USB01 USB 3.0 expansion module:  
+The optical drive (odd) SATA ports on a number of Dell Latitude laptops from 2011-2013 have a PCIe x1 lane hidden in them, meant for use with the AE3USB01 (DP/N P5MKF) USB 3.0 expansion module:  
 
 > <img src='laptop_port.jpg' width=40%/>
 
